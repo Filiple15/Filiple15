@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Filipe
 
-<p>Tenho uma enorme paixão pela área de tecnologia 🤖❤️ e busco aprofundar meus conhecimentos a cada dia 🚀. Além de estudar Full Stack e inglês 📚, possuo formação em espanhol 🇪🇸 e conhecimentos básicos de CSS, HTML e Python 💻.</p>
+<p>Tenho uma enorme paixão pela área de tecnologia 🤖❤️ e busco aprofundar meus conhecimentos a cada dia 🚀. Além de estudar Full Stack e inglês 📚, possuo formação em espanhol, e conhecimentos básicos de CSS, HTML e Python 💻.</p>
 
 <div>
   <a href="https://www.youtube.com/@Pudim_God_PvP" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
