@@ -1,7 +1,6 @@
 ## Olá! Eu sou o João Filipe
 
-- 🌱 Estudo Ful-Stack
-      
+## Tenho uma enorme paixão pela área de tecnologia e busco aprofundar meus conhecimentos a cada dia. Além de estudar Full Stack e inglês, possuo formação em espanhol e conhecimentos básicos de CSS, HTML e Python.
 
 <div>
   <a href="https://github.com/Filiple">
