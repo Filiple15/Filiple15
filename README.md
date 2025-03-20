@@ -11,7 +11,9 @@
   <h3>🤖 Estatísticas</h3>
   <a href="https://github.com/Filiple15">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=compact&langs_count=16&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=donut-vertical&theme=gruvbox"/>
+  
+  
 </div><br>
 
 <div class="sociais">
@@ -26,9 +28,10 @@
 
 <div style="display: inline_block"; class="tecnologias">
   <h3>🤖 Linguagens e Tecnologias</h3>
-  <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Filiple15-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Filiple15-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Filiple15-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Filiple15-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
     
 ![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
