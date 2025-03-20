@@ -10,8 +10,8 @@
 <div class="estatistica">
   <h3>🤖 Estatísticas</h3>
   <a href="https://github.com/Filiple15">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=donut-vertical&theme=gruvbox"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=donut-vertical&theme=gruvbox"/>
   
   
 </div><br>
