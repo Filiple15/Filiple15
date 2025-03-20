@@ -13,6 +13,8 @@
   <a href = "mailto:joaofilipeleandrodossantos9@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 <div class="estatistica">
   <h4>🤖 Estatísticas</h4>
   <a href="https://github.com/Filiple15">
@@ -20,6 +22,7 @@
   <img height="124em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
     
+![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block"; class="tecnologias">
   <h4>🤖 Linguagens e Tecnologias</h4>
@@ -27,3 +30,5 @@
   <img align="center" alt="Rafa-Python" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-CSS" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+
