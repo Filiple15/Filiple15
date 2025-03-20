@@ -12,7 +12,7 @@
   <a href="https://github.com/Filiple15">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=compact&langs_count=16&theme=gruvbox"/>
-</div>
+</div><br>
 
 <div class="sociais">
   <a href="https://www.youtube.com/@Pudim_God_PvP" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
