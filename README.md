@@ -16,16 +16,16 @@
 ##
 
 <div class="estatistica">
-  <h4>🤖 Estatísticas</h4>
+  <h3>🤖 Estatísticas</h3>
   <a href="https://github.com/Filiple15">
-  <img height="124em" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="124em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=compact&langs_count=16&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
     
 ![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block"; class="tecnologias">
-  <h4>🤖 Linguagens e Tecnologias</h4>
+  <h3>🤖 Linguagens e Tecnologias</h3>
   <img align="center" alt="Rafa-HTML" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-CSS" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
