@@ -16,6 +16,18 @@
 
 
 
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=EU+SOU+JOÃO+FILIPE;SEJA+BEM-VINDO+AO+MEU+MUNDO+🚀;Tenho+15+anos+e+sou+apaixonado+por+tecnologia)](https://git.io/typing-svg)
@@ -45,6 +57,8 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
 
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=FFD700&labelColor=0D1117)&nbsp;
@@ -60,6 +74,23 @@
 <br><p align="centre"><b>Contador de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Filiple15}/count.svg" /></p> 
 <br></div>
+
+
+### 🚀 Projetos Favoritos
+
+<div align="center">
+  <a href="https://github.com/Filiple15/ProjetoPatas">
+    <img width="30%" height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=ProjetoPatas&theme=dark&bg_color=000000&title_color=FFD700">
+  </a>
+ <a href="https://github.com/Filiple15/Site-Pessoal">
+    <img width="30%" height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Site-Pessoal&theme=dark&bg_color=000000&title_color=FFD700">
+  </a>
+  <a href="https://github.com/Filiple15/StrarbucksClone">
+    <img width="30%" height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=StrarbucksClone&theme=dark&bg_color=000000&title_color=FFD700">
+  </a>
+
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
 
