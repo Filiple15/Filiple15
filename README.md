@@ -1,34 +1,66 @@
-# `EU SOU JOÃO FILIPE E SEJA BEM-VINDO AO MEU MUNDO 🚀`
 
-<div class="sociais">
-  <a href="https://www.youtube.com/@Pudim_God_PvP" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/joao_fl_015/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/886368488631988244/997083821046497300" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joaofilipeleandrodossantos9@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=EU+SOU+JOÃO+FILIPE;SEJA+BEM-VINDO+AO+MEU+MUNDO+🚀;Tenho+15+anos+e+sou+apaixonado+por+tecnologia)](https://git.io/typing-svg)
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="João Filipe github stats"/> 
+  <img width="200px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=donut-vertical&hide_border=true&title_color=FFD700&text_color=FFD700&bg_color=00000000"/>
 </div>
 
-<div class="bio">
-  <h3>Entusiasta do desenvolvimento Full Stack ( HTML,  Python e CSS), Fluente em espanhol e estudando inglês,<br>
-    apaixonado por aprendizado contínuo. </h3>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Filiple15&bg_color=000000&color=FFD700&line=FFEA00&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Filiple15&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+  <a href="https://www.youtube.com/@Pudim_God_PvP" target="_blank"><img src="https://img.shields.io/badge/YouTube-FFD700?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
+  <a href="https://www.instagram.com/joao_fl_015/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+  <a href="https://discord.com/channels/886368488631988244/997083821046497300" target="_blank"><img src="https://img.shields.io/badge/Discord-FFD700?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a> 
+  <a href = "mailto:joaofilipeleandrodossantos9@mail.com"><img src="https://img.shields.io/badge/-Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
 </div>
+<br>
 
-<div class="estatistica">
-  <h3>👨‍💻 Estatísticas</h3>
-  <a href="https://github.com/Filiple15">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=donut-vertical&theme=gruvbox"/>
-</div>
+### Principais habilidades:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-<div style="display: inline_block"; class="tecnologias">
-  <h3>💻 Linguagens e Tecnologias</h3>
-  <img align="center" alt="Filiple15-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Filiple15-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Filiple15-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Filiple15-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div><br>
+### Ferramentas:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=FFD700&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
-##
-    
-![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+### Estudando no momento:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0D1117)&nbsp;
+
+<div align="center">
+<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Filiple15}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
 
 
