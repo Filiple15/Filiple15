@@ -48,6 +48,7 @@
   <a href="https://www.instagram.com/joao_fl_015/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href="https://discord.com/channels/886368488631988244/997083821046497300" target="_blank"><img src="https://img.shields.io/badge/Discord-FFD700?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a> 
   <a href = "mailto:joaofilipeleandrodossantos9@mail.com"><img src="https://img.shields.io/badge/-Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-filipe-71a718360/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
 </div>
 <br>
 
