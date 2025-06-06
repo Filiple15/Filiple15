@@ -83,3 +83,63 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
 
 
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D6805&height=120&section=header&animation=twinkling&fontColor=ee9b00"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ee9b00&size=35&center=true&vCenter=true&width=1000&lines=EU+SOU+JOÃO+FILIPE;SEJA+BEM-VINDO+AO+MEU+PERFIL+✨;Tenho+15+anos;Desenvolvedor+Fullstack+em+Formação)](https://git.io/typing-svg)
+
+### 💎 Main skills:
+![Python](https://img.shields.io/badge/-Python-9D6805?style=for-the-badge&logo=python&logoColor=ee9b00&labelColor=0d1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-9D6805?style=for-the-badge&logo=javascript&logoColor=ee9b00&labelColor=0d1117)&nbsp;
+![React](https://img.shields.io/badge/-React-9D6805?style=for-the-badge&logo=react&logoColor=ee9b00&labelColor=0d1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-9D6805?style=for-the-badge&logo=node.js&logoColor=ee9b00&labelColor=0d1117)&nbsp;
+
+### 🛠️ Tools:
+![Git](https://img.shields.io/badge/-Git-9D6805?style=for-the-badge&logo=git&logoColor=ee9b00&labelColor=0d1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-9D6805?style=for-the-badge&logo=figma&logoColor=ee9b00&labelColor=0d1117)&nbsp;
+![VS Code](https://img.shields.io/badge/-VSCode-9D6805?style=for-the-badge&logo=visual-studio-code&logoColor=ee9b00&labelColor=0d1117)&nbsp;
+
+### 🌈 GitHub Stats:
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=dark&title_color=ee9b00&icon_color=9D6805&bg_color=0d1117&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Filiple15&theme=dark&background=0d1117&stroke=9D6805&ring=ee9b00&fire=ee9b00&currStreakNum=9D6805&sideNums=ee9b00&currStreakLabel=ee9b00"/>
+</div>
+
+### 🏆 Troféus Alinhados:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Filiple15&theme=gruvbox&title_color=EE9B00&text_color=9D6805&border_color=EE9B00&bg_color=0d1117&column=8"/>
+</div>
+
+### 🌟 Projetos Destacados:
+<div align="center">
+  <a href="https://github.com/Filiple15/ProjetoPatas">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=ProjetoPatas&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
+  </a>
+  <a href="https://github.com/Filiple15/Site-Pessoal">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Site-Pessoal&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
+  </a>
+  <a href="https://github.com/Filiple15/StrarbucksClone">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=StrarbucksClone&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
+  </a>
+</div>
+
+### 📱 Contato:
+<div align="center">
+  <a href="https://www.youtube.com/@Pudim_God_PvP"><img src="https://img.shields.io/badge/YouTube-9D6805?style=for-the-badge&logo=youtube&logoColor=ee9b00"/></a>
+  <a href="https://www.instagram.com/joao_fl_015/"><img src="https://img.shields.io/badge/Instagram-9D6805?style=for-the-badge&logo=instagram&logoColor=ee9b00"/></a>
+  <a href="mailto:joaofilipeleandrodossantos9@mail.com"><img src="https://img.shields.io/badge/Gmail-9D6805?style=for-the-badge&logo=gmail&logoColor=ee9b00"/></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Filiple15&color=9D6805&style=flat-square" alt="Visitas"/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D6805&height=120&section=footer&animation=twinkling&fontColor=ee9b00"/>
+
+
