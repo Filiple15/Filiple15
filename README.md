@@ -44,14 +44,9 @@
 
 ### 🌟 Projetos Destacados:
 <div align="center">
-  <a href="https://github.com/Filiple15/ProjetoPatas">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=ProjetoPatas&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a>
-  <a href="https://github.com/Filiple15/Site-Pessoal">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Site-Pessoal&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a>
-  <a href="https://github.com/Filiple15/StrarbucksClone">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=StrarbucksClone&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
+  
+  <a href="https://github.com/Filiple15/Python-basico">
+    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Python-basico&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
   </a>
 </div>
 
