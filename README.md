@@ -44,10 +44,19 @@
 
 ### 🌟 Projetos Destacados:
 <div align="center">
-  
+
   <a href="https://github.com/Filiple15/Python-basico">
     <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Python-basico&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
   </a>
+  
+  <a href="https://github.com/Filiple15/Mini-Projetos-HTML_CSS">
+    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Mini-Projetos-HTML_CSS&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
+  </a>
+
+   <a href="https://github.com/Filiple15/Site-Patas">
+    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Site-Patas&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
+  </a>
+  
 </div>
 
 ### 📱 Contato:
