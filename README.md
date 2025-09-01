@@ -41,14 +41,15 @@
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/> Node.js &nbsp;
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js"/> React.js &nbsp;
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/> JavaScript &nbsp;
- <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/> C-Sharp &nbsp;
+  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/> C-Sharp &nbsp;
 </p>
 
 <div align="center"><br>
  
 ---
 
-### 🌈 GitHub Stats:
+### 💎 GitHub Stats:
+
 <div align="center"><br>
   <img width="45%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=dark&title_color=ee9b00&icon_color=9D6805&bg_color=0d1117&hide_border=true"/>
  <img width="35%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=compact&hide_border=true&title_color=ee9b00&text_color=ee9b00&bg_color=0d1117" /><br>
