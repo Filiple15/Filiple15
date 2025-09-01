@@ -31,10 +31,12 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;<br>
 
+<div align="center"><br>
+ 
 ##
 
 ### 🌈 GitHub Stats:
-<div align="center">
+<div align="center"><br>
   <img width="45%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=dark&title_color=ee9b00&icon_color=9D6805&bg_color=0d1117&hide_border=true"/>
  <img width="35%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=compact&hide_border=true&title_color=ee9b00&text_color=ee9b00&bg_color=0d1117" /><br>
 
@@ -45,7 +47,7 @@
 ##
 
 ### 🌟 Projetos Destacados:
-<div align="center">
+<div align="center"><br>
 
   <a href="https://github.com/Filiple15/Python-Basico">
     <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Python-Basico&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
