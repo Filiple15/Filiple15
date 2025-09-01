@@ -35,9 +35,9 @@
 
 ### 🌈 GitHub Stats:
 <div align="center">
-  <img width="32%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=dark&title_color=ee9b00&icon_color=9D6805&bg_color=0d1117&hide_border=true"/>
-  <img width="32%" height="100% "src="https://github-readme-streak-stats.herokuapp.com/?user=Filiple15&theme=dark&background=0d1117&stroke=9D6805&ring=ee9b00&fire=ee9b00&currStreakNum=9D6805&sideNums=ee9b00&currStreakLabel=ee9b00"/>
- <img width="35%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=compact&hide_border=true&title_color=ee9b00&text_color=ee9b00&bg_color=0d1117" />
+  <img width="33%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Filiple15&show_icons=true&theme=dark&title_color=ee9b00&icon_color=9D6805&bg_color=0d1117&hide_border=true"/>
+  <img width="33%" height="100% "src="https://github-readme-streak-stats.herokuapp.com/?user=Filiple15&theme=dark&background=0d1117&stroke=9D6805&ring=ee9b00&fire=ee9b00&currStreakNum=9D6805&sideNums=ee9b00&currStreakLabel=ee9b00"/>
+ <img width="33%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiple15&layout=compact&hide_border=true&title_color=ee9b00&text_color=ee9b00&bg_color=0d1117" />
 </div><br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Filiple15&theme=gruvbox&title_color=EE9B00&text_color=9D6805&border_color=EE9B00&bg_color=0d1117&column=8"/>
