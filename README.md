@@ -80,30 +80,26 @@
     <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Mini-Projetos-JS&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
   </a>
 
-
-
-
-
-  <a href="https://github.com/Filiple15/Python-Basico">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Python-Basico&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
+  <a href="https://github.com/Filiple15/Projetos-C_sharp">
+    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Projetos-C_sharp&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
   </a>
 
-  <a href="https://github.com/Filiple15/Python-Basico">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Python-Basico&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
+  <a href="https://github.com/Filiple15/Fullstack-1Semestre">
+    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Fullstack-1Semestre&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
   </a><br><br>
 
 
-  <a href="https://github.com/Filiple15/Python-Basico">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Python-Basico&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
+  <a href="https://github.com/Filiple15/FLipeCode">
+    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=FLipeCode&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
   </a>
 
-  <a href="https://github.com/Filiple15/Python-Basico">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Python-Basico&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
+  <a href="https://github.com/Filiple15/PeleSobrePele">
+    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=PeleSobrePele&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
   </a>
 
-  <a href="https://github.com/Filiple15/Python-Basico">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Python-Basico&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a>
+  <a href="https://github.com/Filiple15/Site-AdamSandler">
+    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Site-AdamSandler&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
+  </a><br><br>
 </div>
 
 ---
