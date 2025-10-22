@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9A227&size=35&center=true&vCenter=true&width=1000&lines=FLipeCode+🚀;Transformando+ideias+em+websites+profissionais;Desenvolvedor+Fullstack;João+Filipe+Leandro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9A227&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Fullstack;João+Filipe+Leandro)](https://git.io/typing-svg)
 
 ---
 
@@ -12,17 +12,6 @@
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js"/> React.js &nbsp;
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/> Node.js &nbsp;
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/> C-Sharp &nbsp;
-</p>
-
-##
-
-### 🛠️ Ferramentas:
-<p>
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio"/> Visual Studio &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="Visual Studio Code"/> VS Code &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/> Git &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/> GitHub &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows"/> Windows
 </p>
 
 ##
@@ -38,8 +27,6 @@
 
 ### 📖 Estudando no momento:
 <p>
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/> Node.js &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js"/> React.js &nbsp;
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/> JavaScript &nbsp;
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/> C-Sharp &nbsp;
 </p>
