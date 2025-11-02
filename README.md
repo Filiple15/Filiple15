@@ -34,7 +34,7 @@ Atualmente focado em aprimorar minhas habilidades com **TypeScript**, e prática
 
 ### 🌱 Studying:
 <div>
-  <img src="https://skillicons.dev/icons?i=typescript&theme=light" height="35px" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=typescript,aws,mysql&theme=light" height="35px" alt="TypeScript" />
   <br>
   
 </div>
