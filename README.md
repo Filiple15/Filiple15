@@ -4,36 +4,40 @@
 
 <p align="center">
   💻 Estudante de Desenvolvimento de Sistemas na <strong>ETEC</strong>  
-  <br>📚 Cursando Desenvolvimento Fullstack no <strong>SENAC</strong>  
-  <br>🚀 Ex-aluno da <strong>Fostec</strong>  
-  <br>🌎 Espanhol nível <strong>intermediário-avançado</strong> (3 anos de formação)  
+  <br>🎓 Desenvolvimento Fullstack no <strong>SENAC</strong>  
+  <br>🌎 Espanhol nível <strong>intermediário-avançado</strong>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="340px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 Sobre mim
 Sou apaixonado por tecnologia e desenvolvimento web.  
 Gosto de criar interfaces modernas, funcionais e com uma boa experiência de usuário.  
-Atualmente focado em aprimorar minhas habilidades com **TypeScript**, **React**, **Node.js** e práticas de **Clean Code**.
+Atualmente focado em aprimorar minhas habilidades com **TypeScript**, e práticas de **Clean Code**.
 
 💡 *"Transformando ideias em código e código em experiência."*
 
 ---
 
-### 🚀 Tecnologias que uso no dia a dia:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+### 🧠 Skills:
+<div>
+
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,cs&theme=light" height="35px" alt="Skills icons" />
+
+  <br>
+
 </div>
 
 ---
 
-### 🌱 Estudando atualmente:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript&theme=light" height="40" alt="TypeScript" />
+
+### 🌱 Studying:
+<div>
+  <img src="https://skillicons.dev/icons?i=typescript&theme=light" height="35px" alt="TypeScript" />
   <br>
-  <sub>TypeScript — aprofundando tipagem e boas práticas para aplicações robustas.</sub>
+  
 </div>
 
 ---
@@ -41,32 +45,8 @@ Atualmente focado em aprimorar minhas habilidades com **TypeScript**, **React**,
 ### 🌐 Idiomas
 - 🇧🇷 **Português** — Nativo  
 - 🇪🇸 **Espanhol** — Intermediário / Avançado  
-- 🇺🇸 **Inglês** — Básico / Intermediário  
+- 🇺🇸 **Inglês** — Básico   
 
----
-
-
-
-### 🚀 Principais habilidades:
-<p>
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>  &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>  &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js"/>  &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>  &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>  &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>  &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>  &nbsp;
-</p>
-
-##
-
-### 📖 Estudando no momento:
-<p>
-  
-</p>
-
-<div align="center"><br>
- 
 ---
 
 ### 💎 GitHub Stats:
@@ -95,6 +75,3 @@ Atualmente focado em aprimorar minhas habilidades com **TypeScript**, **React**,
 <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,100:0b132b&height=120&section=footer" />
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
