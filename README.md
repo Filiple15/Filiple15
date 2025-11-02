@@ -64,13 +64,13 @@ Atualmente focado em aprimorar minhas habilidades com **TypeScript**, e prática
 <a href="https://www.youtube.com/@FLipeCode" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
-<a href="https://www.instagram.com/joaoflipecode/" target="_blank">
+<a href="https://www.instagram.com/joao_fl_015/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.facebook.com/profile.php?id=61579902340943&locale=pt_BR" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-<a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:joaofilip444@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/joaofilipeleandrodossantos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,100:0b132b&height=120&section=footer" />
