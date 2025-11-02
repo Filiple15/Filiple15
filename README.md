@@ -12,23 +12,15 @@
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js"/> React.js &nbsp;
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/> Node.js &nbsp;
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/> C-Sharp &nbsp;
-</p>
-
-##
-
-### 📚 Outros conhecimentos:
-<p>
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/> HTML &nbsp;
   <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/> CSS &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/> Figma
 </p>
 
 ##
 
 ### 📖 Estudando no momento:
 <p>
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/> JavaScript &nbsp;
-  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/> C-Sharp &nbsp;
+  
 </p>
 
 <div align="center"><br>
@@ -44,50 +36,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Filiple15&theme=gruvbox&title_color=EE9B00&text_color=9D6805&border_color=EE9B00&bg_color=0d1117&column=8"/>
 </div><br>
-
----
-
-### 🌟 Projetos Destacados:
-<div align="center"><br>
-
-  <a href="https://github.com/Filiple15/Python-Basico">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Python-Basico&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a>
-  
-  <a href="https://github.com/Filiple15/Mini-Projetos-HTML_CSS">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Mini-Projetos-HTML_CSS&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a>
-
-   <a href="https://github.com/Filiple15/Site-Patas">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Site-Patas&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a><br><br>
-
-
-  <a href="https://github.com/Filiple15/Mini-Projetos-JS">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Mini-Projetos-JS&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a>
-
-  <a href="https://github.com/Filiple15/Projetos-C_sharp">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Projetos-C_sharp&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a>
-
-  <a href="https://github.com/Filiple15/Fullstack-1Semestre">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Fullstack-1Semestre&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a><br><br>
-
-
-  <a href="https://github.com/Filiple15/FLipeCode">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=FLipeCode&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a>
-
-  <a href="https://github.com/Filiple15/PeleSobrePele">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=PeleSobrePele&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a>
-
-  <a href="https://github.com/Filiple15/Site-AdamSandler">
-    <img width="32%" height="20%" src="https://github-readme-stats.vercel.app/api/pin/?username=Filiple15&repo=Site-AdamSandler&theme=dark&title_color=ee9b00&bg_color=0d1117"/>
-  </a><br><br>
-</div>
 
 ---
 
