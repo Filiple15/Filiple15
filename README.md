@@ -1,13 +1,50 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20João%20Filipe&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
+<img src="?type=waving&color=0:0b132b,100:1c2541&height=160&text=Hi,%20I'm%20João%20Filipe!&fontSize=45&fontColor=6fffe9&fontAlignY=40&animation=twinkling&desc=Front-end%20Developer%20|%20Fullstack%20Student%20|%20Tech%20Enthusiast&descSize=22&descAlignY=75&section=header" />
 
-I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer passionate about AI and Machine Learning. I enjoy building interactive web projects and exploring intelligent solutions.
-
-
-💡 *“Crafting logic and elegance in every line of code.”*
-
-<img align="right" alt="Coding" width="325px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center">
+  💻 Estudante de Desenvolvimento de Sistemas na <strong>ETEC</strong>  
+  <br>📚 Cursando Desenvolvimento Fullstack no <strong>SENAC</strong>  
+  <br>🚀 Ex-aluno da <strong>Fostec</strong>  
+  <br>🌎 Espanhol nível <strong>intermediário-avançado</strong> (3 anos de formação)  
+</p>
 
 ---
+
+<img align="right" alt="Coding" width="340px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 👨‍💻 Sobre mim
+Sou apaixonado por tecnologia e desenvolvimento web.  
+Gosto de criar interfaces modernas, funcionais e com uma boa experiência de usuário.  
+Atualmente focado em aprimorar minhas habilidades com **TypeScript**, **React**, **Node.js** e práticas de **Clean Code**.
+
+💡 *"Transformando ideias em código e código em experiência."*
+
+---
+
+### 🚀 Tecnologias que uso no dia a dia:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+</div>
+
+---
+
+### 🌱 Estudando atualmente:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript&theme=light" height="40" alt="TypeScript" />
+  <br>
+  <sub>TypeScript — aprofundando tipagem e boas práticas para aplicações robustas.</sub>
+</div>
+
+---
+
+### 🌐 Idiomas
+- 🇧🇷 **Português** — Nativo  
+- 🇪🇸 **Espanhol** — Intermediário / Avançado  
+- 🇺🇸 **Inglês** — Básico / Intermediário  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,100:0b132b&height=120&section=footer" />
+
 
 ### 🚀 Principais habilidades:
 <p>
@@ -53,7 +90,7 @@ I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer p
 <a href="https://www.facebook.com/profile.php?id=61579902340943&locale=pt_BR" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-
-
+<a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
