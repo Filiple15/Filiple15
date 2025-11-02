@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,100:1c2541&height=160&text=Hi,%20I'm%20João%20Filipe!&fontSize=45&fontColor=6fffe9&fontAlignY=40&animation=twinkling&desc=Front-end%20Developer%20|%20Fullstack%20Student%20|%20Tech%20Enthusiast&descSize=22&descAlignY=75&section=header" />
+
 <img src="?type=waving&color=0:0b132b,100:1c2541&height=160&text=Hi,%20I'm%20João%20Filipe!&fontSize=45&fontColor=6fffe9&fontAlignY=40&animation=twinkling&desc=Front-end%20Developer%20|%20Fullstack%20Student%20|%20Tech%20Enthusiast&descSize=22&descAlignY=75&section=header" />
 
 <p align="center">
@@ -43,7 +45,6 @@ Atualmente focado em aprimorar minhas habilidades com **TypeScript**, **React**,
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,100:0b132b&height=120&section=footer" />
 
 
 ### 🚀 Principais habilidades:
@@ -92,5 +93,8 @@ Atualmente focado em aprimorar minhas habilidades com **TypeScript**, **React**,
 </a>
 <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,100:0b132b&height=120&section=footer" />
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
