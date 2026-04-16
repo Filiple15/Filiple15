@@ -41,7 +41,30 @@ Minha principal direção hoje é backend e integração de sistemas, mas també
 <details>
   <summary><strong>📜 Ver certificados<strong></summary>
 
-- Certificados AQUI !!!
+  <table>
+  <tr>
+  <td>
+        <img href="" src="./LoginForm.JPG" width="1200px"/>
+  </td>
+  <td>
+        <img href="" src="./LoginForm.JPG" width="1200px"/>
+  </td>
+  <td>
+        <img href="" src="./LoginForm.JPG" width="1200px"/>
+  </td>
+  </tr>
+  <tr>
+  <td>
+        <img href="" src="./LoginForm.JPG" width="1200px"/>
+  </td>
+  <td>
+        <img href="" src="./LoginForm.JPG" width="1200px"/>
+  </td>
+  <td>
+        <img href="" src="./LoginForm.JPG" width="1200px"/>
+  </td>
+  </tr>
+  </table>
 
 </details>
 
