@@ -20,8 +20,7 @@ Tenho experiência prática com desenvolvimento de sistemas e venho evoluindo em
 Minha principal direção hoje é backend e integração de sistemas, mas também domino o suficiente de frontend para criar soluções completas.
 
 ### 🌐 Idiomas
-- 🇧🇷 **Português** — Nativo  
-- 🇪🇸 **Espanhol** — Intermediário / Avançado  
+- 🎓 🇪🇸 **Espanhol** — Intermediário / Avançado  
 - 🇺🇸 **Inglês** — Básico
   
 ---
