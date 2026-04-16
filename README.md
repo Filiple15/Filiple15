@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,100:1c2541&height=160&text=Hi,%20I'm%20João%20Filipe!&fontSize=45&fontColor=6fffe9&fontAlignY=40&animation=twinkling&desc=Front-end%20Developer%20|%20Fullstack%20Student%20|%20Tech%20Enthusiast&descSize=22&descAlignY=75&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,100:1c2541&height=160&text=Hi,%20I'm%20João%20Filipe!&fontSize=45&fontColor=6fffe9&fontAlignY=40&animation=twinkling&desc=Fullstack%20Developer%20|%20Dev.%20sistemas%20Student%20&descSize=22&descAlignY=75&section=header" />
 
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
