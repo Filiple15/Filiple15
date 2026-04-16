@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  💻 Estudante de Desenvolvimento de Sistemas na <strong>ETEC</strong>  
-  <br>🎓 Desenvolvimento Fullstack no <strong>SENAC</strong>  
-  <br>🌎 Espanhol nível <strong>intermediário-avançado</strong>
+  💻 Dev. de Sistemas na <strong>ETEC</strong>  <br>
+  🎓 Dev. Fullstack pelo <strong>SENAC</strong>  <br>
+  🎓 Dev. Python pelo <strong>SENAI</strong>
 </p>
 
 ---
@@ -37,6 +37,17 @@ Minha principal direção hoje é backend e integração de sistemas, mas també
 
 ---
 
+<details>
+  <summary><strong>Ver certificados<strong></summary>
 
+## 📚 Informações adicionais
+
+Aqui você coloca tudo que quer esconder:
+
+- Certificados
+- Projetos
+- Experiências
+- Idiomas
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,100:0b132b&height=120&section=footer" />
