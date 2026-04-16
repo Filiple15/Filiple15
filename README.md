@@ -9,7 +9,18 @@ Sou desenvolvedor em formação com foco em construção de aplicações web com
 Tenho experiência prática com desenvolvimento de sistemas e venho evoluindo em arquitetura de aplicações, lógica e boas práticas como **Clean Code**.
 
 Minha principal direção hoje é backend e integração de sistemas, mas também domino o suficiente de frontend para criar soluções completas.
-<br> <br> <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,cs&theme=light" height="35px" alt="Skills icons" />
+<br><br> 
+
+<details>
+  <summary><strong>💡 Skills<strong></summary> <br>
+
+  Frontend:
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" height="30px" alt="Skills icons" /><br>
+  Backend:
+  <img src="https://skillicons.dev/icons?i=python,cs&theme=light" height="30px" alt="Skills icons" /><br>
+  Frameworks:
+  <img src="https://skillicons.dev/icons?i=react,nodejs&theme=light" height="30px" alt="Skills icons" /><br>
+</details>
 
 ##
 
@@ -35,7 +46,7 @@ Minha principal direção hoje é backend e integração de sistemas, mas també
 <details>
   <summary><strong>🌐 Idiomas<strong></summary>
     
-  -  🎓🇪🇸 **Espanhol** — Intermediário / Avançado (**2021 - 2024**)  <a href="https://www.youtube.com/watch?v=d_X86So5Udw">aaa</a>
+  -  🎓🇪🇸 **Espanhol** — Intermediário / Avançado (**2021 - 2024**)
   -  ⏳🇺🇸 **Inglês** — Básico
 </details>
 
