@@ -73,7 +73,7 @@ Minha principal direção hoje é backend e integração de sistemas, mas també
 <details>
   <summary><strong>🌐 Idiomas<strong></summary>
     
-  -  🎓🇪🇸 **Espanhol** — Intermediário / Avançado (**2021 - 2024**)
+  -  🎓🇪🇸 **Espanhol** — Intermediário / Avançado (**27/07/2022 - 18/12/2024**)
   -  ⏳🇺🇸 **Inglês** — Básico
 </details>
 
