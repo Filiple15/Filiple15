@@ -18,9 +18,6 @@ Minha principal direção hoje é backend e integração de sistemas, mas també
   Backend:
   <img src="https://skillicons.dev/icons?i=python,cs&theme=light" height="30px" alt="Skills icons" /><br>
   ##
-  Runtime:
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="30px" alt="Skills icons" /><br>
-  ##
   Frameworks:
   <img src="https://skillicons.dev/icons?i=react,flask&theme=light" height="30px" alt="Skills icons" /><br>
 </details>
