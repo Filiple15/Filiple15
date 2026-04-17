@@ -2,11 +2,15 @@
 
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Sou desenvolvedor em formação com foco em construção de aplicações web completas, especialmente na **integração entre APIs e interfaces frontend**.
+Sou desenvolvedor em formação, com foco na construção de aplicações web completas, especialmente na integração entre APIs e interfaces frontend.
 
-Tenho experiência prática com desenvolvimento de sistemas e venho evoluindo em arquitetura de aplicações, lógica e boas práticas como **Clean Code**.
+Iniciei meus estudos em programação aos 13 anos, com Python, e desde então venho aprofundando meus conhecimentos em desenvolvimento de software, arquitetura de aplicações e boas práticas como Clean Code.
 
-Minha principal direção hoje é backend e integração de sistemas, mas também domino o suficiente de frontend para criar soluções completas.
+Atualmente, estou me formando em Desenvolvimento de Sistemas pela ETEC, com o objetivo de me consolidar como desenvolvedor profissional.
+
+Tenho atuação tanto em backend quanto frontend, com maior afinidade por frontend, utilizando principalmente React. No backend, utilizo tecnologias como Python e frameworks como flask.
+
+Também possuo formação em idioma espanhol, ampliando minha capacidade de comunicação e aprendizado em diferentes contextos.
 <br><br> 
 
 <details>
