@@ -17,13 +17,13 @@ Também possuo formação em idioma espanhol, ampliando minha capacidade de comu
   <summary><strong>💡 Skills<strong></summary> <br>
 
   Frontend:
-  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" height="30px" alt="Skills icons" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=light" height="30px" alt="Skills icons" /><br>
   ##
   Backend:
-  <img src="https://skillicons.dev/icons?i=python,cs&theme=light" height="30px" alt="Skills icons" /><br>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,cs&theme=light" height="30px" alt="Skills icons" /><br>
   ##
   Frameworks:
-  <img src="https://skillicons.dev/icons?i=react,express,flask&theme=light" height="30px" alt="Skills icons" /><br>
+  <img src="https://skillicons.dev/icons?i=express,flask&theme=light" height="30px" alt="Skills icons" /><br>
 </details>
 
 ---
